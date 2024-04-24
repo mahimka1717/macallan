@@ -1,0 +1,43 @@
+{
+    "name": "ft-edp",
+    "version": "1.0",
+    "private": true,
+    "cacheDirectories": [
+        ".next/cache"
+    ],
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "export": "next export",
+        "start": "next start",
+        "lint": "next lint",
+        "heroku-postbuild": "yarn run build"
+    },
+    "dependencies": {
+        "@gsap/react": "^2.1.0",
+        "@svgr/webpack": "^8.1.0",
+        "axios": "^1.5.1",
+        "gsap": "^3.10.4",
+        "i18next": "^23.7.18",
+        "moment": "^2.29.4",
+        "moment-timezone": "^0.5.40",
+        "next": "13.5.3",
+        "next-i18next": "^15.2.0",
+        "packery": "^2.1.2",
+        "prop-types": "^15.8.1",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-ga": "^3.3.0",
+        "react-gtm-module": "^2.0.11",
+        "react-i18next": "^14.0.1",
+        "react-lottie": "^1.2.3",
+        "styled-components": "^6.0.8",
+        "swiper": "^10.3.0"
+    },
+    "devDependencies": {
+        "babel-plugin-styled-components": "^2.0.7",
+        "eslint": "8.50.0",
+        "eslint-config-next": "13.5.3",
+        "prettier": "^3.0.3"
+    }
+}

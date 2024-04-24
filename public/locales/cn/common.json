@@ -1,0 +1,64 @@
+{
+    "hero_title": "A New Horizon for Whisky",
+    "hero_button_label": "Scroll down",
+
+    "navigation": {
+        "part1": "History",
+        "part2": "Innovation",
+        "part3": "Technology",
+        "part4": "Design",
+        "part5": "Craftsmanship"
+    },
+
+    "intro_title": "Craftsmanship and creativity are united in this visionary collaboration",
+    "intro_text0": "In the realm of luxury, collaborations can bridge seemingly unconnected worlds in surprising ways – forging intriguing, powerful and even emotional experiences that transcend the ordinary product.",
+    "intro_text1": "By nurturing authentic connections and exchanging expertise cultivated over centuries, brands unlock doors of creativity. Considering each other's audience drives meaningful innovation, opening space for fresh ideas. This pioneering spirit resonates in The Macallan Horizon.",
+    "intro_text2": "Forged from a creative alliance between The Macallan and Bentley Motors, this sophisticated single malt arrives in the world's first vessel for horizontal pouring, showcasing technological ingenuity. But this creative journey began centuries ago, one which is marked by meticulous craftsmanship and innovation.",
+
+    "history_title": "A Tale Of Two Icons",
+    "history_text0": "Despite operating in entirely different markets – one renowned for its single malt whiskies, the other one of the world’s most sought-after luxury car companies – these two illustrious brands share much common DNA. Both are admired institutions steeped in history, with The Macallan marking its 200th anniversary in 2024 and Bentley founded in 1919.",
+    "history_text1": "Synonymous with British luxury for centuries, both brands maintain unwavering dedication to artisanal craftsmanship. Car interiors boast leather and wood veneers, diligently fashioned through generations-old techniques. Similarly, the Scotch distiller persists in employing traditional sherry oak casks, eschewing cheaper substitutes embraced by contemporaries and providing its signature taste.",
+    "history_text2": "As The Macallan’s creative director Jaume Ferràs discovered, each has embraced change to express new, unexpected codes of their respective crafts too. “We can take inspiration from each other, which enables us to drive forward with our ambitions, while respecting the heritage that has helped to make us who we are today,” he claims.",
+
+    "history_quote": "“We can take inspiration from each other, which enables us to drive forward with our ambitions, while respecting the heritage that has helped to make us who we are today”",
+    "history_quote_author": "Jaume Ferràs  / The Macallan’s Creative Director",
+
+    "innovation_title": "FRESH PERSPECTIVES",
+    "innovation_text0": "Balancing innovation with heritage is key in the luxury sector – and for Jaume Ferràs, resting on the laurels of the past would not be authentic to either brand. “We have both been championing the highest quality and standards in our respective crafts for centuries, however, what matters most is innovation,” he states.",
+    "innovation_text1": "The designers saw the forward-moving trajectory of the automobile industry as a fertile ground for exploration, questioning whether a glass vessel could indeed sit horizontally with no standing base. It eventually was given the name ‘Horizon,’ which nods to the dawn of a dynamic new era in the whisky industry at large – as it enters a new phase in its history since the legalisation of distilling across Scotland in 1924 – and mirrors the shape and direction of the design.",
+    "innovation_text2": "Fusing traditional craftsmanship and precision engineering technology, The Macallan Horizon upends the traditions of the whisky world. The purpose of such innovative, elevated design is to act as an avatar for the thing at the heart of it all: the expertly crafted liquid.",
+
+    "technology_title": "WHERE TRADITION MEETS TOMORROW",
+    "technology_text0": "The advent of advanced manufacturing technology, including robotics and AI, challenges traditional notions of luxury more typically associated with meticulous handmade craftsmanship.",
+    "technology_text1": "However it is also true that technology's integration with craft can enhance rather than disrupt its values by fostering new, complementary creative processes. “Often the most extraordinary experiences and products are a result of merging various worlds, materials, and craft practices,” agrees Bentley’s head of design collaborations Chris Cooke.",
+    "technology_text2": "In a futuristic lab in Crewe, advanced precision technology is employed to ensure maximum vehicle performance – bringing the kind of complexity of form to traditional materials that hand-crafting cannot. Such engineering was leveraged to create the vessel and outer structure – from the glass moulded into a 180-degree twist enveloped within a ribbon of aluminium, to all the materials that comprise the sleek outer frame.",
+
+    "design_title": "THE BALANCING ACT",
+    "design_text0": "Drawing from a host of specialist suppliers, the designers across both brands established six foundational materials integral to each of them, including wood, copper, aluminium, brass, glass and of course, whisky.",
+    "design_text1": "“As well as the history, there is a tactile element and love of materials which very much inspired us at Bentley,” reveals Chris Cooke. “The Macallan is renowned for its oak casks, underlining the importance of quality and design in creating an exceptional product. We were also particularly excited by their previous use of sculptural glass and the architecture of the distillery itself, which directly translates to how light interacts with the vessel.”",
+    "design_text2": "The elegant sculpture encasing the amber liquid is certainly impressive. Lined with top-grade, low-carbon leather in a chestnut colourway from the vehicle interiors, the shell is surrounded by a frame precision engineered from copper partially sourced from stills in the whisky maker’s former distillery. It is finished with sweeping curves of the specific walnut veneer used as trims inside the cars.",  
+
+    "design_quote": "“As well as the history, there is a tactile element and love of materials which very much inspired us at Bentley”",
+    "design_quote_author": "Chris Cooke  / Bentley’s Head of Design",
+
+    "craftmanship_title": "A MEETING OF MAKERS",
+    "craftmanship_text0": "The final, most important, component is the liquid itself. Kirsteen Campbell, the master whisky maker responsible, witnessed the automotive craftspeople at work first-hand, an experience that immediately brought home the shared values between their different worlds.",
+    "craftmanship_text1": "“To have had the opportunity to visit the Bentley factory in Crewe and to be able to see behind the scenes and to understand their philosophy was an amazing sensory experience,” marvels Campbell. “Seeing how much was done by hand really resonated – for example, the bespoke finish of the veneers and the hand stitching of the interiors of the cars.”",
+    "craftmanship_text2": "The challenge was to combine elements that were signature to each brand. Following months of development that included several different shortlists of casks to achieve the final balance of flavour, she settled on six first-fill sherry seasoned oak casks, each bringing its own particular characteristics into the flavour and texture of the final whisky. Meanwhile the natural dark mahogany that was imbued in the final liquid also spoke to the colour craftsmanship integral to the car manufacturer.",
+    "craftmanship_text3": "The intricate process undertaken by Campbell underscores the idea of whisky as material of emotion; the end result of a human process driven by creativity and community. As The Macallan Horizon exemplifies, it is a spirit of collaboration.",
+
+    "more_title": "Just 700 bottles of The Macallan Horizon are available worldwide.",
+    "more_prompt": "Register your interest.",
+    "more_button_label": "Discover more",
+
+    "next_title": "The Next Five",
+    "next_text": "Lorem ipsum dolor sit amet de a consectetur adipiscing elit.",
+    "next_button_label": "Listen now",
+
+    "end_text": "Please enjoy responsibly. Do not drink and drive.",
+
+    "app_title": "Chinese title",
+    "active_locale": "Español",
+    "button_label": "Lee mas",
+    "homepage_nav_link_label": "Regresa"
+}
